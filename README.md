@@ -1,6 +1,6 @@
 # CoursesManager
 
-made as part of the application to the Yalantis Python School
+Made as part of the application to the Yalantis Python School (yalantis.net)
 
 ### How To Run
 1. Install `virtualenv`:
