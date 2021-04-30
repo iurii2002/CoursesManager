@@ -39,4 +39,5 @@ if __name__ == "__main__":
 
 ---
 
+### Wiki
 [Endpoints](https://github.com/iuriizzz/CoursesManager/wiki/Endpoints)
